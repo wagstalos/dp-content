@@ -1,0 +1,36 @@
+CACHE MANIFEST
+#07-03-2019 v1.0.3
+
+CACHE:
+css/style.css
+css/animate2.css
+css/owl.carousel.min.css
+css/owl.theme.default.min.css
+css/bootstrap.min.css
+js/jquery.sticky.js
+js/owl.carousel.min.js
+js/tilt.jquery.js
+js/wow.min.js
+img/banner.svg
+img/bgDNA.svg
+img/bookmark.svg
+img/browsers.svg
+img/certificate.svg
+img/chat.svg
+img/envelope.svg
+img/good.svg
+img/logo.png
+img/map-location.svg
+img/maps-and-flags.svg
+img/menu.svg
+img/monitor.svg
+img/phone-receiver.svg
+img/placeholder.svg
+img/purple.svg
+img/red.svg
+img/screen_2x.png
+img/simple-iphone.svg
+img/ipad.svg
+
+NETWORK
+*
